@@ -1,0 +1,16 @@
+package shape;
+
+public enum ShapeType{
+	OVAL,
+	TRIANGLE,
+	RECTANGLE,
+	DIAMOND,
+	BOW,
+	PENTAGRAM,
+	HEXAGRAM,
+	PENTAGON,
+	HEXAGON,
+	HEPTAGON,
+	OCTAGON,
+	LINE;
+}
